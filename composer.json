@@ -37,3 +37,4 @@
         "psr-4": { "MuxPhp\\Test\\" : "test/" }
     }
 }
+
